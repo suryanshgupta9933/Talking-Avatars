@@ -1,0 +1,10 @@
+{
+    "source_image": "samples/avatar1.png",
+    "driven_audio": "samples/voice1.mp3",
+    "result_dir": "results/",
+    "pose_style": 0,
+    "device": "cuda",
+    "batch_size": 2,
+    "size": 256,
+    "expression_scale": 1.0
+}
